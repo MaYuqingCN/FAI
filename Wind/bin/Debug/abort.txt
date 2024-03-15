@@ -1,3 +1,0 @@
-本文项目是用ArcObject10.2在vs2010实现
-
-该项目中包含完整代码。/bin/Debug中有结果，使用时可以将.esriaddin文件双击安装到arcgis平台（已经安装arcgis），然后可以像一般工具那样进行使用。
